@@ -1,0 +1,45 @@
+{
+  "My_Wallet": {
+    "Cards": {
+      "Bus_ticket": {
+        "type": "usual",
+        "name": "Leocard"
+      },
+      "bank_card": [
+        {
+          "bank": "Somebank",
+          "name": "Universal"
+        },
+        {
+          "bank": "Somebank",
+          "name": "ForPayment"
+        }
+      ],
+      "promo_card": [
+        "Oxford_Medical",
+        "ARTOPTIKA"
+      ]
+    },
+    "Docs": {
+      "passport": {
+        "type": "id-card",
+        "name/surname": "RomanKhomiak"
+      },
+      "student_id": {
+        "type": "id-card",
+        "university": "LPNU"
+      },
+      "drivers_license": {
+        "type": "id-card",
+        "category": [
+          "B",
+          "C"
+        ]
+      }
+    },
+    "Money": {
+      "in_cash": "13uah",
+      "in_coins": "7,50uah"
+    }
+  }
+}
