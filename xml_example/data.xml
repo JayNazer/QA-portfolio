@@ -1,0 +1,18 @@
+<My_Wallet>
+	<Cards>
+		<Bus_ticket type='usual'>Leocard</Bus_ticket>
+		<bank_card bank = "Somebank">Universal</bank_card>
+		<bank_card bank = "Somebank">ForPayment</bank_card>
+		<promo_card>Oxford_Medical</promo_card>
+		<promo_card>ARTOPTIKA</promo_card>
+	</Cards>
+	<Docs>
+		<passport type="id-card">RomanKhomiak</passport>
+		<student_id type="id-card">LPNU</student_id>
+		<drivers_license type="id-card">catB-C</drivers_license>
+	</Docs>
+	<Money>
+		<in_cash>13uah</in_cash>
+		<in_coins>7,50uah</in_coins>
+	</Money>
+</My_Wallet>
